@@ -1,0 +1,2 @@
+[10-Dec-2024 16:05:40 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/kand5673/public_html/lib/koneksi.php on line 10
+[10-Dec-2024 16:09:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/kand5673/public_html/lib/koneksi.php on line 10

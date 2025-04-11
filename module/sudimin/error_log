@@ -1,0 +1,12 @@
+[05-Jun-2024 07:15:16 Asia/Jakarta] PHP Warning:  include(lib/config.php): failed to open stream: No such file or directory in /home/kand5673/public_html/module/sudimin/index.php on line 34
+[05-Jun-2024 07:15:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kand5673/public_html/module/sudimin/index.php on line 34
+[05-Jun-2024 07:15:16 Asia/Jakarta] PHP Warning:  include(lib/koneksi.php): failed to open stream: No such file or directory in /home/kand5673/public_html/module/sudimin/index.php on line 35
+[05-Jun-2024 07:15:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kand5673/public_html/module/sudimin/index.php on line 35
+[05-Jun-2024 07:15:16 Asia/Jakarta] PHP Warning:  include(lib/fungsi_date.php): failed to open stream: No such file or directory in /home/kand5673/public_html/module/sudimin/index.php on line 36
+[05-Jun-2024 07:15:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/fungsi_date.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kand5673/public_html/module/sudimin/index.php on line 36
+[05-Jun-2024 07:15:17 Asia/Jakarta] PHP Warning:  include(lib/config.php): failed to open stream: No such file or directory in /home/kand5673/public_html/module/sudimin/index.php on line 34
+[05-Jun-2024 07:15:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kand5673/public_html/module/sudimin/index.php on line 34
+[05-Jun-2024 07:15:17 Asia/Jakarta] PHP Warning:  include(lib/koneksi.php): failed to open stream: No such file or directory in /home/kand5673/public_html/module/sudimin/index.php on line 35
+[05-Jun-2024 07:15:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kand5673/public_html/module/sudimin/index.php on line 35
+[05-Jun-2024 07:15:17 Asia/Jakarta] PHP Warning:  include(lib/fungsi_date.php): failed to open stream: No such file or directory in /home/kand5673/public_html/module/sudimin/index.php on line 36
+[05-Jun-2024 07:15:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/fungsi_date.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kand5673/public_html/module/sudimin/index.php on line 36
